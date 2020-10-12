@@ -1,5 +1,5 @@
 ---
-title: 'O *favor divortii* no Regulamento Roma III e os seus limites: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
+title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 - *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
 author:
 - João Gomes de Almeida
   Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa
@@ -13,7 +13,7 @@ abstract: |
 
   **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 
-  **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2. Interpretação do artigo 15.º do Regulamento: o elemento literal. 3. *Continuação*: o contexto do preceito e as finalidades prosseguidas pelo Regulamento n.º 1346/2000. 4. A exclusão dos processos executivos do conceito de ação pendente. 5. Questão *ad latere*: a alínea *e)* do artigo 277.º do Código de Processo Civil português e o Acórdão de uniformização de jurisprudência n.º 1/2014 do Supremo Tribunal de Justiça. V. Conclusão.
+  **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2.  V. Conclusão.
 
 suppress-bibliography: true
 ---
@@ -35,7 +35,7 @@ suppress-bibliography: true
 
 **5.** Em suma, o Tribunal de Bucareste perguntou ao Tribunal de Justiça se a expressão "não preveja o divórcio" deve ser interpretada de forma estrita ou de forma mais ampla, de modo a incluir situações em que a lei estrangeira preveja o divórcio, estabelecendo muito embora requisitos mais exigentes para o decretar.
 
-O Tribunal de Bucareste entendeu limitar a questão prejudicial ao artigo 10.º do Regulamento Roma III, não suscitando qualquer questão sobre a alegação de violação da ordem pública internacional romena (artigo 12.º). Compreende-se a opção. O artigo 10.º é uma norma inovadora, que não tem equivalente nos demais regulamentos da União Europeia sobre a determinação da lei aplicável. Já o artigo 12.º é em tudo semelhante aos artigos 21.º e 26.º dos Regulamentos Roma I[^3] e Roma II[^4], que o antecederam, e ao artigo 35.º do Regulamento sobre sucessões[^5], bem como aos artigos 31.º do Regulamento sobre regimes matrimoniais[^6] e do Regulamento sobre efeitos patrimoniais das parcerias registadas[^7], que o sucederam. Admite-se assim o concreto litígio colocado perante o Tribunal de Bucareste não tenha suscitado qualquer questão *nova* sobre a reserva de ordem pública internacional que justificasse a utilização do mecanismo do reenvio prejudicial.
+O Tribunal de Bucareste entendeu limitar a questão prejudicial ao artigo 10.º do Regulamento Roma III, não suscitando qualquer questão sobre a alegação de violação da ordem pública internacional romena (artigo 12.º). Compreende-se a opção. O artigo 10.º é uma norma inovadora, que não tem equivalente nos demais regulamentos da União Europeia sobre a determinação da lei aplicável. Já o artigo 12.º é em tudo semelhante aos artigos 21.º e 26.º dos Regulamentos Roma I[^3] e Roma II[^4], que o antecederam, ao artigo 35.º do Regulamento sobre sucessões[^5] e aos artigos 31.º do Regulamento sobre regimes matrimoniais[^6] e do Regulamento sobre efeitos patrimoniais das parcerias registadas[^7], que o sucederam. Admite-se assim o concreto litígio colocado perante o Tribunal de Bucareste não tenha suscitado qualquer questão *nova* sobre a reserva de ordem pública internacional que justificasse a utilização do mecanismo do reenvio prejudicial.
 
 # III. A resposta do Tribunal de Justiça da União Europeia
 

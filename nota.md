@@ -39,9 +39,11 @@ O Tribunal de Bucareste entendeu limitar a questão prejudicial ao artigo 10.º 
 
 # III. A resposta do Tribunal de Justiça da União Europeia
 
-**6.** O Tribunal de Justiça da União Europeia assinala, preliminarmente, que o artigo 10.º constitui uma exceção aos artigos 5.º e 8.º, que consagram as normas de conflitos principal e subsidiária do Regulamento Roma III, e como tal, deve ser objeto de interpretação *estrita*[^8].
+**6.** O Tribunal de Justiça da União Europeia assinala, preliminarmente, que o artigo 10.º constitui uma exceção aos artigos 5.º e 8.º, que consagram as normas de conflitos principal e subsidiária do Regulamento Roma III, e, como tal, deve ser objeto de interpretação *estrita*[^8].
 
-**7.** 
+**7.** De seguida, o Tribunal de Justiça da União Europeia analisa a letra do preceito, bem como o considerando n.º 24 do Regulamento Roma III, concluindo que estes elementos não permitem a aplicação do preceito nos casos em que a lei aplicável prevê o divórcio, mas sujeita-o ao cumprimento de requisitos mais restritivos do que os previstos na lei do foro[^9].
+
+**8.** 
 
 # IV. Análise
 
@@ -61,3 +63,5 @@ O Tribunal de Bucareste entendeu limitar a questão prejudicial ao artigo 10.º 
 [^7]: Regulamento (UE) 2016/1104 do Conselho, de 24 de junho de 2016, que implementa a cooperação reforçada no domínio da competência, da lei aplicável, do reconhecimento e da execução de decisões em matéria de efeitos patrimoniais das parcerias registadas.
 
 [^8]: Acórdão do TJUE de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570, considerando n.º 23.
+
+[^9]: *Idem*, considerando n.º 26.

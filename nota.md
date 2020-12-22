@@ -15,6 +15,10 @@ abstract: |
 
   **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2.  V. Conclusão.
 
+documentclass: scrartcl
+
+lang: pt-PT
+notes-after-punctuation: false
 suppress-bibliography: true
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 - *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
-author:
-- João Gomes de Almeida
-  Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa
-  ORCID 0000-0002-0486-6165
+author: João Gomes de Almeida
+
 abstract: |
   **Abstract:**
 
@@ -16,6 +14,18 @@ abstract: |
   **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2.  V. Conclusão.
 
 documentclass: scrartcl
+classoption:
+- onesided
+- headings=standardclasses
+
+mainfont: Palatino
+
+#documentclass: memoir
+#classoption:
+#- article
+#- onesided
+
+# indent: true #remove espaços entre parágrafos e adiciona avanço de linha para assinalar parágrafos.
 
 lang: pt-PT
 notes-after-punctuation: false
@@ -31,7 +41,7 @@ suppress-bibliography: true
 
 **3.** O cônjuge autor interpôs recurso da decisão para o Tribunal de Bucareste, alegando que *(i)* a aplicação do artigo 10.º do Regulamento Roma III aos casos em que a lei estrangeira aplicável é mais restritiva do que a *lex fori* quanto aos requisitos para decretar o divórcio, e, subsidiariamente, *(ii)* que a aplicação do Direito material italiano no caso concreto violava princípios fundamentais da ordem pública internacional romena, o que justificava o afastamento dessa lei nos termos do artigo 12.º do mesmo Regulamento.
 
-## II. A questão prejudicial
+# II. A questão prejudicial
 
 **4.** O Tribunal de Bucareste suspendeu a instância e colocou a seguinte questão prejudicial ao Tribunal de Justiça da União Europeia:
 

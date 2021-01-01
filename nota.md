@@ -1,5 +1,5 @@
 ---
-title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 - *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
+title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 -- *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
 author: João Gomes de Almeida
 
 abstract: |
@@ -17,6 +17,7 @@ documentclass: scrartcl
 classoption:
 - onesided
 - headings=standardclasses
+- DIV=calc
 
 mainfont: Palatino
 

@@ -20,6 +20,7 @@ classoption:
 - DIV=calc
 
 mainfont: Palatino
+indent: true
 
 #documentclass: memoir
 #classoption:
@@ -66,9 +67,17 @@ Por fim, conclui que a interpretação mais ampla, que subsume ao artigo 10.º o
 
 Conclui, assim, que o facto de a lei aplicável nos termos do artigo 5.º ou 8.º do Regulamento Roma III prever requisitos mais restritivos para o divórcio do que a lei do foro é irrelevante para efeitos do artigo 10.º do mencionado Regulamento[^14].
 
-**8.**
+**8.** O Tribunal de Justiça debruça-se ainda sobre a prática jurisprudencial romena descrita pelo órgão jurisdicional de reenvio: em litígios como o do presente processo, os pedidos de divórcio "(...) são indeferidos por serem, respetivamente, inadmissíveis, com fundamento em que o direito romeno não prevê o processo de separação judicial, e prematuros, com fundamento em que o divórcio é pedido perante os tribunais romenos, sem que tenha sido previamente declarada ou decretada a separação judicial pelos tribunais italianos, ou ainda improcedentes, por estes dois fundamentos conjugados"[^15].
+
+O Tribunal de Justiça considera que esta prática jurisprudencial, ao impedir a análise do mérito dos pedidos de divórcio,  prejudica o efeito útil das normas de conflitos uniformes do Regulamento Roma III e colide, em certa medida, com as normas atributivas de competência internacional do Regulamento Bruxelas II *bis*, que conferem, no caso presente, competência internacional aos tribunais romenos para julgar o divórcio[^16], concluindo que:
+
+> "[a]ssim, numa situação como a que está em causa no processo principal, em que o tribunal competente considera que a lei estrangeira aplicável por força das disposições do Regulamento n.° 1259/2010 só permite pedir o divórcio se este tiver sido precedido de uma separação judicial com uma duração de três anos, quando a lei do foro não prevê normas processuais em matéria de separação judicial, esse órgão jurisdicional deve, contudo, não podendo ele próprio decretar essa separação, verificar se estão preenchidos os requisitos materiais previstos pela lei estrangeira aplicável e declará-lo no âmbito do processo de divórcio que lhe foi submetido"[^17].
 
 # IV. Análise
+
+## 1. Considerações gerais
+
+**9.**
 
 
 [^1]: Regulamento  (UE)  n.º 1259/2010  do  Conselho de  20  de  Dezembro  de  2010 que  cria  uma  cooperação  reforçada  no  domínio  da  lei  aplicável  em  matéria  de  divórcio  e  separação  judicial.
@@ -97,4 +106,10 @@ Conclui, assim, que o facto de a lei aplicável nos termos do artigo 5.º ou 8.�
 
 [^13]: Acórdão do TJUE de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570, considerandos n.ºs 32 a 34.
 
-[^14]: *Idem*, considerando n.ºs 36.
+[^14]: *Idem*, considerando n.º 36.
+
+[^15]: *Idem*, considerando n.º 39.
+
+[^16]: *Idem*, considerandos n.ºs 40 e 41.
+
+[^17]: *Idem*, considerando n.º 43.

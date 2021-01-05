@@ -20,7 +20,8 @@ classoption:
 - DIV=calc
 
 mainfont: Palatino
-indent: true
+# Avanço da primeira linha (true) ou espaço entre parágrafos (false)
+indent: false
 
 #documentclass: memoir
 #classoption:
@@ -77,7 +78,9 @@ O Tribunal de Justiça considera que esta prática jurisprudencial, ao impedir a
 
 ## 1. Considerações gerais
 
-**9.**
+**9.** O acórdão que se comenta é apenas o segundo em que o Tribunal de Justiça interpreta normas do Regulamento Roma III. Assinala-se que no primeiro, o  acórdão *Soha Sahyouni contra Raja Mamisch*[^18], o órgão jurisdicional de reenvio também questionou o Tribunal de Justiça sobre como deveria ser interpretado o artigo 10.º do Regulamento Roma III. Em concreto, o órgão jurisdicional de reenvio questionou se o artigo 10.º do Regulamento Roma III estabelecia a não aplicação da lei estrangeira designada aplicável pelas normas de conflito do Regulamento sempre que esta fosse discriminatória em abstracto ou apenas quando a lei estrangeira fosse discriminatória em abstracto *e* no caso concreto submetido ao tribunal[^19].
+
+Esta questão ficou sem resposta porque o Tribunal de Justiça entendeu que o concreto litígio submetido ao órgão jurisdicional de reenvio e que motivou o reenvio prejudical não se inseria no âmbito de aplicação em razão da matéria do Regulamento Roma III, razão pela qual as normas deste não eram aplicáveis.
 
 
 [^1]: Regulamento  (UE)  n.º 1259/2010  do  Conselho de  20  de  Dezembro  de  2010 que  cria  uma  cooperação  reforçada  no  domínio  da  lei  aplicável  em  matéria  de  divórcio  e  separação  judicial.
@@ -113,3 +116,7 @@ O Tribunal de Justiça considera que esta prática jurisprudencial, ao impedir a
 [^16]: *Idem*, considerandos n.ºs 40 e 41.
 
 [^17]: *Idem*, considerando n.º 43.
+
+[^18]: Acórdão do TJUE de 20 de dezembro de 2017, *Soha Sahyouni contra Raja Mamisch*, C-372/16, EU:C:2017:988. Este acórdão foi antecedido por um outro processo, no qual o Tribunal de Justiça proferiu despacho em que se declarou manifestamente incompetente para responder às questões prejudiciais colocadas (Despacho do Tribunal de Justiça (Primeira Secção) de 12 de maio de 2016, proc. C-281/15, EU:C:2016:343).
+
+[^19]: Acórdão do TJUE de 20 de dezembro de 2017, *Soha Sahyouni contra Raja Mamisch*, C-372/16, EU:C:2017:988, considerando n.º 25.

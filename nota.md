@@ -102,7 +102,7 @@ Apenas ampliando o sentido literal possível se poderia incluir na previsão des
 
 **12.** A nível contextual, o Tribunal de Justiça da União Europeia relevou que a expressão "não preveja o divórcio" é também utilizada num dos *novos* limites à aplicação do Direito material estrangeiro estabelecidos pelo artigo 13.º[^20] e que o considerando n.º 26 indica que esta expressão deve ser interpretada no sentido de que a lei *não contempla o instituto do divórcio*.
 
-Assinalou -- como alguma doutrina já o havia feito [Cf., neste sentido, @almeida2017a, pp. 438-439] -- que as indicações fornecidas pelo considerando são igualmente pertinentes para a interpretação do artigo 10.º do Regulamento Roma III. De facto, é dificilmente compreensível que o legislador da União Europeia utilizasse, no mesmo Regulamento e para tratar questões referentes à mesma matéria (limites à aplicação da lei estrangeira), a mesma expressão conferindo-lhe significados jurídicos diferentes.
+Assinalou -- como alguma doutrina já o havia feito [Cf., neste sentido, **JOUBERT (2013a: 597-598) - inserir ref. blibliográfica no ZOTERO** e @almeida2017a, pp. 438-439] -- que as indicações fornecidas pelo considerando são igualmente pertinentes para a interpretação do artigo 10.º do Regulamento Roma III. De facto, é dificilmente compreensível que o legislador da União Europeia utilizasse, no mesmo Regulamento e para tratar questões referentes à mesma matéria (limites à aplicação da lei estrangeira), a mesma expressão conferindo-lhe significados jurídicos diferentes.
 
 **13.**
 

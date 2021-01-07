@@ -116,7 +116,7 @@ A coincidência *forum* *ius* não é um fim em si próprio. Nem sempre as razõ
 
 **14.** Em conclusão, percorrido o *iter* interpretativo do Tribunal de Justiça da União Europeia, não merece reparos a interpretação de que a expressão "não preveja o divórcio", presente no artigo 10.º (e no artigo 13.º) do Regulamento Roma III deve ser interpretada no sentido de que "(...) abrange apenas as situações em que a lei estrangeira aplicável não preveja de forma alguma o divórcio"[^22], isto é, abrange apenas as situações em que o Direito material desconhece (não consagra) o instituto do divórcio.
 
-## 3. O *obiter dictum* relativo à prática jurisprudencial romena
+## 3. O *obiter dictum* sobre à prática jurisprudencial romena
 
 
 

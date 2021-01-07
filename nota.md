@@ -32,6 +32,8 @@ indent: false
 
 lang: pt-PT
 notes-after-punctuation: false
+bibliography: bib.bib
+csl: chicago-manual-of-style-17th-edition-fullnotefullnames.csl
 suppress-bibliography: true
 ---
 
@@ -98,7 +100,11 @@ A esta luz, concorda-se com a conclusão do Tribunal de Justiça da União Europ
 
 Apenas ampliando o sentido literal possível se poderia incluir na previsão deste limite à aplicação do Direito material estrangeira situações em que se exige uma ponderação casuística -- que poderia estar na mente do órgão jurisdicional de reenvio, quando formulou a questão em termos de uma consagração do divórcio em condições *excecionalmente* restritivas, procurando equiparar à não previsão situações que, no caso concreto, não poderiam conduzir ao decretamento do divórcio -- ou uma comparação entre a lei estrangeira e a lei do foro.
 
-**12.**
+**12.** A nível contextual, o Tribunal de Justiça da União Europeia relevou que a expressão "não preveja o divórcio" é também utilizada num dos *novos* limites à aplicação do Direito material estrangeiro estabelecidos pelo artigo 13.º[^20] e que o considerando n.º 26 indica que esta expressão deve ser interpretada no sentido de que a lei *não contempla o instituto do divórcio*.
+
+Assinalou -- como alguma doutrina já o havia feito [Cf., neste sentido, @almeida2017a, pp. 438-439] -- que as indicações fornecidas pelo considerando são igualmente pertinentes para a interpretação do artigo 10.º do Regulamento Roma III. De facto, é dificilmente compreensível que o legislador da União Europeia utilizasse, no mesmo Regulamento e para tratar questões referentes à mesma matéria (limites à aplicação da lei estrangeira), a mesma expressão conferindo-lhe significados jurídicos diferentes.
+
+**13.**
 
 
 
@@ -139,3 +145,7 @@ Apenas ampliando o sentido literal possível se poderia incluir na previsão des
 [^18]: Acórdão do TJUE de 20 de dezembro de 2017, *Soha Sahyouni contra Raja Mamisch*, C-372/16, EU:C:2017:988. Este acórdão foi antecedido por um outro processo, no qual o Tribunal de Justiça proferiu despacho em que se declarou manifestamente incompetente para responder às questões prejudiciais colocadas (Despacho do Tribunal de Justiça (Primeira Secção) de 12 de maio de 2016, proc. C-281/15, EU:C:2016:343).
 
 [^19]: Acórdão do TJUE de 20 de dezembro de 2017, *Soha Sahyouni contra Raja Mamisch*, C-372/16, EU:C:2017:988, considerando n.º 25.
+
+[^20]: Este limite prevê que o órgão aplicador do direito do Estado-Membro participante do foro não está obrigado a decretar o divórcio, nos termos do Direito material designado aplicável por força das normas do Regulamento Roma III, quando o Direito material do foro não preveja o divórcio e ficou conhecido como a cláusula maltesa. Na sua génese está um compromisso político. O Regulamento Roma III viria a ser o primeiro instrumento da União Europeia a ter sido adotado através de uma cooperação reforçada e, como tal, almejava-se uma participação o mais alargada possível.
+
+    Malta era, à data das negociações, o único Estado-Membro da União Europeia cujo Direito material desconhecia o instituto do divórcio. Seria natural que não participasse nesta cooperação reforçada. No entanto, negociou o seguinte compromisso, vertido neste limite: Malta participava na cooperação reforçada, mas os órgãos aplicadores do direito malteses em caso algum ficavam obrigados a dissolver um vínculo matrimonial por força das regras do Regulamento Roma III. Porém, em 2011 (ainda antes de as normas do Regulamento serem aplicáveis), Malta introduziu o instituto do divórcio no seu Direito material. Deste modo, o Regulamento Roma III contém uma previsão normativa que é, atualmente, de verificação impossível, não sendo expectável que tal se altere no futuro.

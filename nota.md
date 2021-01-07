@@ -11,7 +11,7 @@ abstract: |
 
   **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 
-  **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2.  V. Conclusão.
+  **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2. A interpretação do artigo 10.º: o elemento literal, o contexto do preceito e as finalidades prosseguidas pelo Regulamento; 3. O *obiter dictum* sobre à prática jurisprudencial romena V. Conclusão.
 
 documentclass: scrartcl
 classoption:
@@ -120,7 +120,7 @@ A coincidência *forum* *ius* não é um fim em si próprio. Nem sempre as razõ
 
 
 
-
+# V. Conclusão
 
 
 

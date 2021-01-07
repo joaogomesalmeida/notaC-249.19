@@ -68,9 +68,9 @@ Por fim, conclui que a interpretação mais ampla, que subsume ao artigo 10.º o
 
 Conclui, assim, que o facto de a lei aplicável nos termos do artigo 5.º ou 8.º do Regulamento Roma III prever requisitos mais restritivos para o divórcio do que a lei do foro é irrelevante para efeitos do artigo 10.º do mencionado Regulamento[^14].
 
-**8.** O Tribunal de Justiça debruça-se ainda sobre a prática jurisprudencial romena descrita pelo órgão jurisdicional de reenvio: em litígios como o do presente processo, os pedidos de divórcio "(...) são indeferidos por serem, respetivamente, inadmissíveis, com fundamento em que o direito romeno não prevê o processo de separação judicial, e prematuros, com fundamento em que o divórcio é pedido perante os tribunais romenos, sem que tenha sido previamente declarada ou decretada a separação judicial pelos tribunais italianos, ou ainda improcedentes, por estes dois fundamentos conjugados"[^15].
+**8.** O Tribunal de Justiça da União Europeia debruça-se ainda sobre a prática jurisprudencial romena descrita pelo órgão jurisdicional de reenvio: em litígios como o do presente processo, os pedidos de divórcio "(...) são indeferidos por serem, respetivamente, inadmissíveis, com fundamento em que o direito romeno não prevê o processo de separação judicial, e prematuros, com fundamento em que o divórcio é pedido perante os tribunais romenos, sem que tenha sido previamente declarada ou decretada a separação judicial pelos tribunais italianos, ou ainda improcedentes, por estes dois fundamentos conjugados"[^15].
 
-O Tribunal de Justiça considera que esta prática jurisprudencial, ao impedir a análise do mérito dos pedidos de divórcio,  prejudica o efeito útil das normas de conflitos uniformes do Regulamento Roma III e colide, em certa medida, com as normas atributivas de competência internacional do Regulamento Bruxelas II *bis*, que conferem, no caso presente, competência internacional aos tribunais romenos para julgar o divórcio[^16], concluindo que:
+O Tribunal de Justiça da União Europeia considera que esta prática jurisprudencial, ao impedir a análise do mérito dos pedidos de divórcio,  prejudica o efeito útil das normas de conflitos uniformes do Regulamento Roma III e colide, em certa medida, com as normas atributivas de competência internacional do Regulamento Bruxelas II *bis*, que conferem, no caso presente, competência internacional aos tribunais romenos para julgar o divórcio[^16], concluindo que:
 
 > "[a]ssim, numa situação como a que está em causa no processo principal, em que o tribunal competente considera que a lei estrangeira aplicável por força das disposições do Regulamento n.° 1259/2010 só permite pedir o divórcio se este tiver sido precedido de uma separação judicial com uma duração de três anos, quando a lei do foro não prevê normas processuais em matéria de separação judicial, esse órgão jurisdicional deve, contudo, não podendo ele próprio decretar essa separação, verificar se estão preenchidos os requisitos materiais previstos pela lei estrangeira aplicável e declará-lo no âmbito do processo de divórcio que lhe foi submetido"[^17].
 
@@ -78,9 +78,28 @@ O Tribunal de Justiça considera que esta prática jurisprudencial, ao impedir a
 
 ## 1. Considerações gerais
 
-**9.** O acórdão que se comenta é apenas o segundo em que o Tribunal de Justiça interpreta normas do Regulamento Roma III. Assinala-se que no primeiro, o  acórdão *Soha Sahyouni contra Raja Mamisch*[^18], o órgão jurisdicional de reenvio também questionou o Tribunal de Justiça sobre como deveria ser interpretado o artigo 10.º do Regulamento Roma III. Em concreto, o órgão jurisdicional de reenvio questionou se o artigo 10.º do Regulamento Roma III estabelecia a não aplicação da lei estrangeira designada aplicável pelas normas de conflito do Regulamento sempre que esta fosse discriminatória em abstracto ou apenas quando a lei estrangeira fosse discriminatória em abstracto *e* no caso concreto submetido ao tribunal[^19].
+**9.** O acórdão que se comenta é apenas o segundo em que o Tribunal de Justiça da União Europeia interpreta normas do Regulamento Roma III. Assinala-se que no primeiro, o  acórdão *Soha Sahyouni contra Raja Mamisch*[^18], o órgão jurisdicional de reenvio também questionou o Tribunal de Justiça da União Europeia sobre como deveria ser interpretado o artigo 10.º do Regulamento Roma III. Em concreto, o órgão jurisdicional de reenvio questionou se o artigo 10.º do Regulamento Roma III estabelecia a não aplicação da lei estrangeira designada aplicável pelas normas de conflito do Regulamento sempre que esta fosse discriminatória em abstracto ou apenas quando a lei estrangeira fosse discriminatória em abstracto *e* no caso concreto submetido ao tribunal[^19].
 
-Esta questão ficou sem resposta porque o Tribunal de Justiça entendeu que o concreto litígio submetido ao órgão jurisdicional de reenvio e que motivou o reenvio prejudical não se inseria no âmbito de aplicação em razão da matéria do Regulamento Roma III, razão pela qual as normas deste não eram aplicáveis.
+Esta questão ficou sem resposta porque o Tribunal de Justiça da União Europeia entendeu que o concreto litígio submetido ao órgão jurisdicional de reenvio e que motivou o reenvio prejudical não se inseria no âmbito de aplicação em razão da matéria do Regulamento Roma III, razão pela qual as normas deste não eram aplicáveis.
+
+**10.** O artigo 10.º estabelece dois (dos quatro) *novos e distintos* limites à aplicação do Direito material estrangeiro consagrados no Regulamento Roma III. Um aplicável nos casos em que o Direito material estrangeiro "não preveja o divórcio" e o outro nos casos em que consagra o divórcio ou a separação judicial em termos discriminatórios em razão do sexo.
+
+No acórdão *Soha Sahyouni contra Raja Mamisch* a questão prejudicial recaía sobre o limite do acesso discriminatório em razão do sexo. No acórdão que se comenta recai sobre o limite da não previsão do divórcio. Apesar disso, e em face da construção do preceito, estes dois limites operam do mesmo modo.
+
+A resposta dada pelo Tribunal de Justiça da União Europeia será, por isso e no essencial, aplicável a ambos os limites.
+
+## 2. A interpretação do artigo 10.º: o elemento literal, o contexto do preceito e as finalidades prosseguidas pelo Regulamento
+
+**11.** O Tribunal de Justiça da União Europeia inicia a sua análise assinalando que o artigo 10.º constitui uma exceção às normas de conflitos principal e subsidiária (artigos 5.º e 8.º) do Regulamento Roma III e que, por isso, deve ser objeto de interpretação *estrita*.
+
+Considera-se que, ao referir-se a uma interpretação estrita, o Tribunal de Justiça da União Europeia não sustenta que o preceito deva ser objeto de uma interpretação restritiva, no sentido de que o intérprete (e o órgão jurisdicional de reenvio) deve encurtar o significado das expressões usadas no preceito para as adequar ao seu espírito. Antes nos parece que se pretende garantir uma interpretação *declarativa*, que não amplie ou restrinja o significado das expressões utilizadas no artigo 10.º do Regulamento.
+
+A esta luz, concorda-se com a conclusão do Tribunal de Justiça da União Europeia de que o sentido literal possível da expressão "não preveja o divórcio" não inclui situações em que a lei designada aplicável consagra o instituto do divórcio, mas fâ-lo em condições excecionalmente restritvas ou mais restritivas do que a lei do foro.
+
+Apenas ampliando o sentido literal possível se poderia incluir na previsão deste limite à aplicação do Direito material estrangeira situações em que se exige uma ponderação casuística -- que poderia estar na mente do órgão jurisdicional de reenvio, quando formulou a questão em termos de uma consagração do divórcio em condições *excecionalmente* restritivas, procurando equiparar à não previsão situações que, no caso concreto, não poderiam conduzir ao decretamento do divórcio -- ou uma comparação entre a lei estrangeira e a lei do foro.
+
+**12.**
+
 
 
 [^1]: Regulamento  (UE)  n.º 1259/2010  do  Conselho de  20  de  Dezembro  de  2010 que  cria  uma  cooperação  reforçada  no  domínio  da  lei  aplicável  em  matéria  de  divórcio  e  separação  judicial.

@@ -116,9 +116,11 @@ A coincidência *forum* *ius* não é um fim em si próprio. Nem sempre as razõ
 
 **14.** Em conclusão, percorrido o *iter* interpretativo do Tribunal de Justiça da União Europeia, não merece reparos a interpretação de que a expressão "não preveja o divórcio", presente no artigo 10.º (e no artigo 13.º) do Regulamento Roma III deve ser interpretada no sentido de que "(...) abrange apenas as situações em que a lei estrangeira aplicável não preveja de forma alguma o divórcio"[^22], isto é, abrange apenas as situações em que o Direito material desconhece (não consagra) o instituto do divórcio.
 
+A pronúncia esclarece que este limite deve ser verificado em *abstrato*, ou seja, o intérprete e os órgãos aplicadores do Direito devem verificar apenas se o Direito material designado aplicável nos termos dos artigos 5.º e 8.º do Regulamento Roma III *consagra ou não* o instituto do divórcio. Considerações sobre o modo como se encontra consagrado, nomeadamente sobre os requisitos estabelecidos para o decretamento do divórcio e o carácter (excecionalmente) restritivo dos mesmos, ou sobre a existência ou não de laços significativos com a *lex fori* são *irrelevantes* para a análise deste limite, consagrado no artigo 10.º do Regulamento Roma III[O que já vinha sendo assinalado na pela doutrina, nomeadamente, JOUBERT [2013a: 602] e KOHLER [2013: 427 e 2011: 212]. **inserir e tratar referência bibliográficas**]. Este ponto é extensível ao outro limite à aplicação do Direito material estrangeiro (discriminição em razão do género no acesso ao divórcio e à separação judicial) consagrado no artigo 10.º do Regulamento Roma III, em virtude do modo como se encontra redigido o preceito.
+
 ## 3. O *obiter dictum* sobre à prática jurisprudencial romena
 
-
+**15.**
 
 # V. Conclusão
 

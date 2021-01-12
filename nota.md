@@ -7,7 +7,7 @@ abstract: |
 
   **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 
-  **Abstract:** In the *JE contra KF* judgment, the European Court of Justice answers a question regarding the interpretation of article 10 of the Rome III Regulation. This annotation examines the solution and the *obiter dictum* given by the European Court of Justice.
+  **Abstract:** In the *JE contra KF* judgment, the European Court of Justice answers a question regarding the interpretation of article 10 of the Rome III Regulation. This annotation examines the solution and an *obiter dictum* given by the European Court of Justice.
 
   **Keywords:** Rome III Regulation; Regulation No 1259/2010; meaning of "no provision for divorce".
 

@@ -3,13 +3,15 @@ title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentári
 author: João Gomes de Almeida
 
 abstract: |
-  **Abstract:**
+  **Resumo:** No Acórdão *JE contra KF* o Tribunal de Justiça da União Europeia responde a uma questão colocada sobre o modo de interpretar o artigo 10.º do Regulamento Roma III. Este comentário examina a solução dada, bem como um *obiter dictum* efetuado pelo Tribunal de Justiça da União Europeia.
+
+  **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
+
+  **Abstract:** In the *JE contra KF* judgment, the European Court of Justice answers a question regarding the interpretation of article 10 of the Rome III Regulation. This annotation examines the solution and the *obiter dictum* given by the European Court of Justice.
 
   **Keywords:** Rome III Regulation; Regulation No 1259/2010; meaning of "no provision for divorce".
 
-  **Resumo:**
 
-  **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 
   **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2. A interpretação do artigo 10.º: o elemento literal, o contexto do preceito e as finalidades prosseguidas pelo Regulamento; 3. O *obiter dictum* sobre à prática jurisprudencial romena V. Conclusões.
 
@@ -108,7 +110,7 @@ De facto, entende-se que seria dificilmente compreensível que o legislador da U
 
 **13.** O Regulamento Roma III visa, em síntese, garantir a segurança jurídica, a previsibilidade e a flexibilidade nos processos matrimoniais internacionais e mitigar o *forum shopping* decorrente das múltiplas normas atributivas de competência internacional consagradas no Regulamento Bruxelas II *bis*. Uma análise casuística e comparativa entre a lei aplicável e a lei do foro contraria, no entender do Tribunal de Justiça da União Europeia, estas finalidades pois diminui a segurança jurídica e previsibilidade, pode impedir a aplicação da lei com a qual os cônjuges tem uma conexão mais estreita e pode criar um novo incentivo ao *forum shopping*.
 
-No Regulamento Bruxelas II *bis*, em matéria de competência internacional, o *favor divortii* advém, primacialmente, da consagração de múltiplas normas atributivas de competência internacional de aplicação concorrente [Comummente designados na doutrina como critérios alternativos. Cf., por exemplo, @borras1998, p.37; @gonzalezcampos2000, p. 364; @schack2002, p. 43; @brito2005, p. 324; @nascimbene2011, p. 77; @biagioni2012, p. 25; @sanchezjimenez2013, p. 33; @ramos2016h, p. 191; e @pinheiro2019c (falta p.). O Tribunal de Justiça da União Europeia utiliza também esta designação. Veja-se, por exemplo, Acórdão de 16 de julho de 2009, *Hadadi*, proc. C-168/08, EU:C:2009:474, considerando n.º 48.]. Sendo internacionalmente competentes os tribunais de vários Estados-Membros, o cônjuge autor pode intentar a ação nos tribunais de qualquer um desses Estados-Membros. A admissibilidade do *forum shopping* funciona, no caso concreto das ações de divórcio, como favorecimento das decisões que proferem o divórcio porque, em regra, o autor destas ações é o cônjuge que pretende a dissolução do vínculo matrimonial e escolherá de entre as jurisdições internacionalmente competentes aquela que considera ser mais favorável à sua pretensão.
+No Regulamento Bruxelas II *bis*, em matéria de competência internacional, o *favor divortii* advém, primacialmente, da consagração de múltiplas normas atributivas de competência internacional de aplicação concorrente [Comummente designados na doutrina como critérios alternativos. Cf., por exemplo, @borras1998, p.37; @gonzalezcampos2000, p. 364; @schack2002, p. 43; @brito2005, p. 324; @nascimbene2011, p. 77; @biagioni2012, p. 25; @sanchezjimenez2013, p. 33; @ramos2016h, p. 191; e @pinheiro2019c (**falta p.**). O Tribunal de Justiça da União Europeia utiliza também esta designação. Veja-se, por exemplo, Acórdão de 16 de julho de 2009, *Hadadi*, proc. C-168/08, EU:C:2009:474, considerando n.º 48.]. Sendo internacionalmente competentes os tribunais de vários Estados-Membros, o cônjuge autor pode intentar a ação nos tribunais de qualquer um desses Estados-Membros. A admissibilidade do *forum shopping* funciona, no caso concreto das ações de divórcio, como favorecimento das decisões que proferem o divórcio porque, em regra, o autor destas ações é o cônjuge que pretende a dissolução do vínculo matrimonial e escolherá de entre as jurisdições internacionalmente competentes aquela que considera ser mais favorável à sua pretensão.
 
 O Regulamento Roma III, ao uniformizar as normas de Direito de conflitos do divórcio e separação judicial, limitou, nos Estados-Membros participantes, a amplitude deste *favor divortii*. Mesmo que sejam internacionalmente competentes os tribunais de vários Estados-Membros participantes, a lei reguladora do divórcio e da separação judicial será a mesma em todos eles, salvo se ao caso for aplicável uma lei estrangeira e se considerar verificado algum dos limites à aplicação do Direito material estrangeiro. Estes limites estão, por definição, numa relação adversa com as finalidades prosseguidas pelo Regulamento. Quanto maior for o campo de aplicação destes limites, menor será a segurança e previsibilidade jurídicas e menor será mitigação do *forum shopping*.
 

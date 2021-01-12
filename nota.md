@@ -3,7 +3,7 @@ title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentári
 author: João Gomes de Almeida
 
 abstract: |
-  **Resumo:** No Acórdão *JE contra KF* o Tribunal de Justiça da União Europeia responde a uma questão colocada sobre o modo de interpretar o artigo 10.º do Regulamento Roma III. Este comentário examina a solução dada, bem como um *obiter dictum* efetuado pelo Tribunal de Justiça da União Europeia.
+  **Resumo:** No Acórdão *JE contra KF*, o Tribunal de Justiça da União Europeia responde a uma questão colocada sobre o modo de interpretar o artigo 10.º do Regulamento Roma III. Este comentário examina a solução dada, bem como um *obiter dictum* efetuado pelo Tribunal de Justiça da União Europeia.
 
   **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 

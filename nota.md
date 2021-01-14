@@ -251,7 +251,7 @@ Assim, este limite deve ser verificado em *abstrato*, ou seja, o intérprete e o
 
 [^30]: Conclusões do Advogado-Geral Evgeni Tanchev, apresentadas em 26 de março de 2020, C‑249/19, ECLI:EU:C:2020:231, considerandos n.ºs 63 e 65 e 66.
 
-[^30a]: Admitindo (o que parece ser o entendimento do tribunal nacional) que a aplicação da lei estrangeira designada aplicável não conduz, no caso concreto, a um resultado manifestamente incompatível com a ordem pública internacional do foro (artigo 12.º do Regulamento Roma III).
+[^30a]: Admitindo que a aplicação da lei estrangeira designada aplicável não conduz, no caso concreto, a um resultado manifestamente incompatível com a ordem pública internacional do foro (artigo 12.º do Regulamento Roma III).
 
 [^31]: Dizemos a maioria das vezes, porque resulta do acórdão (considerando n.º 39) e das conclusões do Advogado-Geral (considerando n.º 23) que por vezes eram proferidas decisões de improcedência do pedido.
 

@@ -1,5 +1,5 @@
 ---
-title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 -- *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE contra KF*, C-249/19, EU:C:2020:570'
+title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 -- *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE v KF*, C-249/19, EU:C:2020:570'
 author: |
   João Gomes de Almeida \
   Professor Auxiliar da \
@@ -11,7 +11,7 @@ abstract: |
 
   **Palavras-chave:** Regulamento Roma III; Regulamento (UE) n.º 1259/2010; significado de "não preveja o divórcio".
 
-  **Abstract:** In the *JE contra KF* judgment, the European Court of Justice answers a question regarding the interpretation of article 10 of the Rome III Regulation. This annotation examines the solution and an *obiter dictum* given by the European Court of Justice.
+  **Abstract:** In the *JE v KF* judgment, the European Court of Justice answers a question regarding the interpretation of article 10 of the Rome III Regulation. This annotation examines the solution and an *obiter dictum* given by the European Court of Justice.
 
   **Keywords:** Rome III Regulation; Regulation No 1259/2010; meaning of "no provision for divorce".
 
@@ -100,7 +100,7 @@ Considera-se que, ao referir-se a uma interpretação estrita, o Tribunal de Jus
 
 A esta luz, concorda-se com a conclusão do Tribunal de Justiça da União Europeia de que o sentido literal possível da expressão "não preveja o divórcio" não inclui situações em que a lei designada aplicável consagra o instituto do divórcio, mas fá-lo em condições excecionalmente restritivas ou mais restritivas do que a lei do foro.
 
-Apenas ampliando o sentido literal possível se poderia incluir na previsão deste limite à aplicação do Direito material estrangeiro situações em que se exige uma ponderação casuística -- que poderia estar na mente do órgão jurisdicional de reenvio, quando formulou a questão em termos de uma consagração do divórcio em condições *excecionalmente* restritivas, procurando equiparar à não previsão situações que, no caso concreto, não poderiam conduzir ao decretamento do divórcio -- ou uma comparação entre a lei estrangeira e a lei do foro[^19a].
+Apenas indo além do sentido literal possível se poderia incluir na previsão deste limite à aplicação do Direito material estrangeiro situações em que se exige uma ponderação casuística -- que poderia estar na mente do órgão jurisdicional de reenvio, quando formulou a questão em termos de uma consagração do divórcio em condições *excecionalmente* restritivas, procurando equiparar à não previsão situações que, no caso concreto, não poderiam conduzir ao decretamento do divórcio -- ou uma comparação entre a lei estrangeira e a lei do foro[^19a].
 
 **12.** A nível contextual, o Tribunal de Justiça da União Europeia releva que a expressão "não preveja o divórcio" é também utilizada num dos *novos* limites à aplicação do Direito material estrangeiro estabelecidos pelo artigo 13.º[^20] e que o considerando n.º 26 indica que esta expressão deve ser interpretada no sentido de que a lei *não contempla o instituto do divórcio*.
 

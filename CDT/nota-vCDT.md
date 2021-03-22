@@ -1,9 +1,8 @@
 ---
 title: 'O *favor divortii* e os seus limites no Regulamento Roma III: comentário ao Acórdão do Tribunal de Justiça da União Europeia de 16 de julho de 2020, *JE contra KF*, C-249/19, EU:C:2020:570 -- *Favor divortii* and its limits on the Rome III Regulation: annotation on the European Court of Justice Judgment of 16 july 2020, *JE v KF*, C-249/19, EU:C:2020:570'
-author: |
-  João Gomes de Almeida \
-  Professor Auxiliar da \
-  Faculdade de Direito da Universidade de Lisboa \
+author:
+  João Gomes de Almeida
+  Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa
   ORCID 0000-0002-0486-6165
 
 abstract: |
@@ -17,15 +16,15 @@ abstract: |
 
   **Sumário:** I. Os factos do caso. II. A questão prejudicial. III. A resposta do Tribunal de Justiça da União Europeia. IV. Análise. 1. Considerações gerais. 2. A interpretação do artigo 10.º: o elemento literal, o contexto do preceito e as finalidades prosseguidas pelo Regulamento; 3. O *obiter dictum* sobre a prática jurisprudencial romena. V. Conclusões.
 
-documentclass: scrartcl
-classoption:
-- onesided
-- headings=standardclasses
-- DIV=calc
+#documentclass: scrartcl
+#classoption:
+#- onesided
+#- headings=standardclasses
+#- DIV=calc
 
-mainfont: Palatino
+#mainfont: Palatino
 # Avanço da primeira linha (true) ou espaço entre parágrafos (false)
-indent: false
+#indent: false
 
 #documentclass: memoir
 #classoption:
@@ -37,7 +36,7 @@ indent: false
 lang: pt-PT
 notes-after-punctuation: false
 bibliography: bib.bib
-csl: chicago-manual-of-style-17th-edition-fullnotefullnames.csl
+csl: cuadernos-de-derecho-transnacional-beta.csl
 suppress-bibliography: true
 ---
 

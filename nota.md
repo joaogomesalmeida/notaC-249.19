@@ -27,7 +27,7 @@ suppress-bibliography: true
 
 **3.** O cônjuge autor interpôs recurso da decisão para o Tribunal de Bucareste, alegando que *(i)* a aplicação do artigo 10.º do Regulamento Roma III aos casos em que a lei estrangeira aplicável é mais restritiva do que a *lex fori* quanto aos requisitos para decretar o divórcio, e, subsidiariamente, *(ii)* que a aplicação do Direito material italiano no caso concreto violava princípios fundamentais da ordem pública internacional romena, o que justificava o afastamento dessa lei nos termos do artigo 12.º do mesmo Regulamento.
 
-## II. A questão prejudicial
+# II. A questão prejudicial
 
 **4.** O Tribunal de Bucareste suspendeu a instância e colocou a seguinte questão prejudicial ao Tribunal de Justiça da União Europeia:
 
